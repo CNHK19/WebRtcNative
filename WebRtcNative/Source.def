@@ -1,0 +1,5 @@
+LIBRARY    "WebRtcNative"
+
+  EXPORTS
+    InitliazePeerConnection @1 
+
